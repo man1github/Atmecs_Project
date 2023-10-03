@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Emulator Photo Gallery Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="appPackage" value="gallery.hidepictures.photovault.lockgallery"/>
+  <parameter name="appActivity" value="gallery.hidepictures.photovault.lockgallery.zl.ZLMainActivity"/>
+  <parameter name="platformName" value="Android"/>
+  <parameter name="udid" value="emulator-5554"/>
+  <parameter name="deviceName" value="Pixel 5"/>
+  <test thread-count="5" name="Emulator Photo Gallery Test(failed)">
+    <parameter name="appium_Url" value="http://0.0.0.0:4723/wd/hub"/>
+    <classes>
+      <class name="com.qa.emulator.test.HomePageTest">
+        <methods>
+          <include name="desiredCapabilites"/>
+          <include name="handleAlertTest"/>
+          <include name="driverLaunch"/>
+          <include name="extendReportFlush"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.emulator.test.HomePageTest -->
+    </classes>
+  </test> <!-- Emulator Photo Gallery Test(failed) -->
+</suite> <!-- Failed suite [Emulator Photo Gallery Test Suite] -->

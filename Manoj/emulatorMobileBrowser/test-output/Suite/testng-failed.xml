@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="platformName" value="Android"/>
+  <parameter name="udid" value="emulator-5554"/>
+  <parameter name="deviceName" value="Pixel 4"/>
+  <parameter name="appPath" value="C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\Build\\Android_UI_Design-1.0.apk"/>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="appium_Url" value="http://0.0.0.0:4723/wd/hub"/>
+    <classes>
+      <class name="com.qa.emulator.test.HomepageTest">
+        <methods>
+          <include name="desiredCapabilites"/>
+          <include name="appInteractionTest" invocation-numbers="1"/>
+          <include name="driverLaunch"/>
+          <include name="extendReportFlush"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.emulator.test.HomepageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

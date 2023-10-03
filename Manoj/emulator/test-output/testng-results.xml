@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-03T12:11:04 IST" name="Emulator Test Suite" finished-at="2023-10-03T12:13:10 IST" duration-ms="125271">
+    <groups>
+    </groups>
+    <test started-at="2023-10-03T12:11:04 IST" name="Emulator Test" finished-at="2023-10-03T12:13:10 IST" duration-ms="125271">
+      <class name="com.qa.emulator.test.ViewFlowTest">
+        <test-method signature="viewFlowTest()[pri:0, instance:com.qa.emulator.test.ViewFlowTest@cb0755b]" started-at="2023-10-03T12:12:57 IST" name="viewFlowTest" finished-at="2023-10-03T12:13:03 IST" duration-ms="6156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewFlowTest -->
+      </class> <!-- com.qa.emulator.test.ViewFlowTest -->
+      <class name="com.qa.emulator.test.TextSpeechTest">
+        <test-method signature="textSpeechTest()[pri:0, instance:com.qa.emulator.test.TextSpeechTest@6bbe85a8]" started-at="2023-10-03T12:11:22 IST" name="textSpeechTest" finished-at="2023-10-03T12:11:33 IST" duration-ms="10063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textSpeechTest -->
+      </class> <!-- com.qa.emulator.test.TextSpeechTest -->
+      <class name="com.qa.emulator.test.ListViewTest">
+        <test-method signature="doubleTapAndFlingTest()[pri:0, instance:com.qa.emulator.test.ListViewTest@4b013c76]" started-at="2023-10-03T12:12:04 IST" name="doubleTapAndFlingTest" finished-at="2023-10-03T12:12:27 IST" duration-ms="23141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doubleTapAndFlingTest -->
+        <test-method signature="scrollAndClickTest(java.lang.String)[pri:1, instance:com.qa.emulator.test.ListViewTest@4b013c76]" started-at="2023-10-03T12:12:28 IST" name="scrollAndClickTest" data-provider="TestData" finished-at="2023-10-03T12:12:53 IST" duration-ms="25387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Norway]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollAndClickTest -->
+        <test-method signature="scrollAndClickTest(java.lang.String)[pri:1, instance:com.qa.emulator.test.ListViewTest@4b013c76]" started-at="2023-10-03T12:12:53 IST" name="scrollAndClickTest" data-provider="TestData" finished-at="2023-10-03T12:12:55 IST" duration-ms="2118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Afghanistan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollAndClickTest -->
+        <test-method signature="scrollAndClickTest(java.lang.String)[pri:1, instance:com.qa.emulator.test.ListViewTest@4b013c76]" started-at="2023-10-03T12:12:55 IST" name="scrollAndClickTest" data-provider="TestData" finished-at="2023-10-03T12:12:57 IST" duration-ms="2008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Albania]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollAndClickTest -->
+      </class> <!-- com.qa.emulator.test.ListViewTest -->
+      <class name="com.qa.emulator.test.ChartTest">
+        <test-method signature="name()[pri:0, instance:com.qa.emulator.test.ChartTest@712625fd]" started-at="2023-10-03T12:13:03 IST" name="name" finished-at="2023-10-03T12:13:09 IST" duration-ms="6000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- com.qa.emulator.test.ChartTest -->
+      <class name="com.qa.emulator.test.DragAndDropTest">
+        <test-method signature="dragAndDropTest()[pri:0, instance:com.qa.emulator.test.DragAndDropTest@4be29ed9]" started-at="2023-10-03T12:11:33 IST" name="dragAndDropTest" finished-at="2023-10-03T12:12:04 IST" duration-ms="31837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDropTest -->
+      </class> <!-- com.qa.emulator.test.DragAndDropTest -->
+      <class name="com.qa.emulator.test.HomePageTest">
+        <test-method is-config="true" signature="setCapabilites(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.emulator.test.HomePageTest@75d3a5e0]" started-at="2023-10-03T12:10:47 IST" name="setCapabilites" finished-at="2023-10-03T12:11:04 IST" duration-ms="17204" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pixel 4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\BuildFiles\\Android_UI_Design-1.0.apk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[pattern]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[74869]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCapabilites -->
+        <test-method is-config="true" signature="driverLaunch(java.lang.String)[pri:0, instance:com.qa.emulator.test.HomePageTest@75d3a5e0]" started-at="2023-10-03T12:11:04 IST" name="driverLaunch" finished-at="2023-10-03T12:11:21 IST" duration-ms="16947" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://127.0.0.1:4723/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverLaunch -->
+        <test-method signature="handleAlertTest()[pri:0, instance:com.qa.emulator.test.HomePageTest@75d3a5e0]" started-at="2023-10-03T12:11:21 IST" name="handleAlertTest" finished-at="2023-10-03T12:11:22 IST" duration-ms="1152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAlertTest -->
+        <test-method is-config="true" signature="extendReportFlush()[pri:0, instance:com.qa.emulator.test.HomePageTest@75d3a5e0]" started-at="2023-10-03T12:13:09 IST" name="extendReportFlush" finished-at="2023-10-03T12:13:10 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReportFlush -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.emulator.test.HomePageTest@75d3a5e0]" started-at="2023-10-03T12:13:10 IST" name="tearDown" finished-at="2023-10-03T12:13:10 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.emulator.test.HomePageTest -->
+    </test> <!-- Emulator Test -->
+  </suite> <!-- Emulator Test Suite -->
+</testng-results>

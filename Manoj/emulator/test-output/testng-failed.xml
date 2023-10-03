@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Emulator Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="unlockType" value="pattern"/>
+  <parameter name="platformName" value="Android"/>
+  <parameter name="udid" value="emulator-5554"/>
+  <parameter name="unlockKey" value="74869"/>
+  <parameter name="deviceName" value="Pixel 4"/>
+  <parameter name="appPath" value="C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\BuildFiles\\Android_UI_Design-1.0.apk"/>
+  <test thread-count="5" name="Emulator Test(failed)">
+    <parameter name="appium_Url" value="http://127.0.0.1:4723/"/>
+    <classes>
+      <class name="com.qa.emulator.test.ListViewTest">
+        <methods>
+          <include name="scrollAndClickTest" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.qa.emulator.test.ListViewTest -->
+    </classes>
+  </test> <!-- Emulator Test(failed) -->
+</suite> <!-- Failed suite [Emulator Test Suite] -->

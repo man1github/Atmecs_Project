@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-27T15:26:44 IST" name="TestSuites Appium" finished-at="2023-09-27T15:26:44 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- TestSuites Appium -->
+  <suite started-at="2023-09-27T15:26:20 IST" name="Emulator Test Suite" finished-at="2023-09-27T15:26:44 IST" duration-ms="23721">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T15:26:20 IST" name="Emulator Test" finished-at="2023-09-27T15:26:44 IST" duration-ms="23721">
+      <class name="com.qa.emulator.test.HomePageTest">
+        <test-method is-config="true" signature="desiredCapabilites(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.emulator.test.HomePageTest@4961f6af]" started-at="2023-09-27T15:26:04 IST" name="desiredCapabilites" finished-at="2023-09-27T15:26:20 IST" duration-ms="15815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pixel 4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\Build\\Android_UI_Design-1.0.apk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[pattern]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[74869]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desiredCapabilites -->
+        <test-method is-config="true" signature="driverLaunch(java.lang.String)[pri:0, instance:com.qa.emulator.test.HomePageTest@4961f6af]" started-at="2023-09-27T15:26:20 IST" name="driverLaunch" finished-at="2023-09-27T15:26:43 IST" duration-ms="23077" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://127.0.0.1:4723/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverLaunch -->
+        <test-method signature="handleAlertTest()[pri:0, instance:com.qa.emulator.test.HomePageTest@4961f6af]" started-at="2023-09-27T15:26:43 IST" name="handleAlertTest" finished-at="2023-09-27T15:26:43 IST" duration-ms="42" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError
+at com.qa.emulator.actions.HomePageActions.alertHandle(HomePageActions.java:25)
+at com.qa.emulator.test.HomePageTest.handleAlertTest(HomePageTest.java:14)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1275)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAlertTest -->
+        <test-method is-config="true" signature="extendReportFlush()[pri:0, instance:com.qa.emulator.test.HomePageTest@4961f6af]" started-at="2023-09-27T15:26:43 IST" name="extendReportFlush" finished-at="2023-09-27T15:26:44 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReportFlush -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.emulator.test.HomePageTest@4961f6af]" started-at="2023-09-27T15:26:44 IST" name="tearDown" finished-at="2023-09-27T15:26:44 IST" duration-ms="2" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "com.qa.emulator.basetest.BaseTest.driver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "com.qa.emulator.basetest.BaseTest.driver" is null
+at com.qa.emulator.basetest.BaseTest.tearDown(BaseTest.java:91)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:410)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1275)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.emulator.test.HomePageTest -->
+    </test> <!-- Emulator Test -->
+  </suite> <!-- Emulator Test Suite -->
+</testng-results>

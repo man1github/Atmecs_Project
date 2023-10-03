@@ -1,0 +1,22 @@
+{
+    "Pixel_4": {
+        "Android_ui_design": {
+            "platformName": "Android",
+            "deviceName": "Pixel 4",
+            "udid": "emulator-5554",
+            "appPath": "C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\Build\\Android_UI_Design-1.0.apk",
+            "unlockType": "pattern",
+            "unlockKey": "74869"
+        },
+        "Gallery": {
+            "platformName": "Android",
+            "deviceName": "Pixel 4",
+            "udid": "emulator-5554",
+            "appPackage": "com.ai.gallery.android",
+            "appActivity": "com.ai.gallery.android.activities.MainActivity",
+            "unlockType": "pattern",
+            "unlockKey": "74869"
+        }
+    }
+}
+

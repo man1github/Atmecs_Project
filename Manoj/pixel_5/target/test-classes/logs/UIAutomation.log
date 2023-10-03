@@ -1,0 +1,985 @@
+2023-09-11 15:44:14,047 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 15:44:14,050 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 15:44:15,044 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 15:44:15,045 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 15:44:16,038 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed
+2023-09-11 15:45:22,362 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 15:45:22,365 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 15:45:22,891 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 15:45:22,891 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 15:45:23,670 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed
+2023-09-11 15:45:54,595 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 15:45:54,604 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 15:45:55,479 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 15:45:55,481 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 15:58:24,722 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 15:58:24,734 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 15:58:25,402 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 15:58:26,934 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 15:58:27,909 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 15:58:29,371 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 15:58:29,372 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 15:59:26,476 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 15:59:26,490 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 15:59:28,251 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 16:00:03,791 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 16:00:03,801 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 16:00:05,616 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 16:00:07,305 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:00:08,540 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:00:10,658 - com.qa.emulator.basetest.BaseTest -INFO - Double Tap is performed
+2023-09-11 16:00:10,660 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 16:01:32,356 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 16:01:32,372 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 16:01:33,510 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 16:01:35,154 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:01:36,217 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:06:10,726 - com.qa.emulator.basetest.BaseTest -ERROR - pinchIn is not performed org.openqa.selenium.NoSuchSessionException: A session is either terminated or not started
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'ATMECSINLT-1194', ip: '60.60.60.75', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [6145a1eb-06d4-4711-b48f-3bd5d4bb2edb, actions {actions=[org.openqa.selenium.interactions.Sequence@b18c4, org.openqa.selenium.interactions.Sequence@4e904fd5]}]
+Capabilities {appium:appActivity: com.ai.gallery.android.acti..., appium:appPackage: com.ai.gallery.android, appium:databaseEnabled: false, appium:desired: {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: android, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: android}
+Session ID: 6145a1eb-06d4-4711-b48f-3bd5d4bb2edb
+2023-09-11 16:07:15,772 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 16:07:15,843 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 16:07:17,689 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 16:07:20,779 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:07:22,058 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:07:54,063 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 16:08:52,023 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 16:08:52,064 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 16:08:53,809 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 16:08:56,603 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:08:58,210 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:09:00,072 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 16:09:00,073 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 16:09:30,323 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 16:09:30,331 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 16:09:33,179 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 16:09:35,610 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:09:36,599 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:09:38,466 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 16:09:38,467 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 16:30:37,232 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 16:30:37,247 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 16:30:39,500 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 16:30:42,487 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:30:44,065 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 16:30:45,896 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 16:30:45,896 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 17:27:50,185 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 17:27:50,188 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 17:27:51,448 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 17:27:54,111 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 17:28:03,143 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [8a5d225b-4514-42ec-b9d0-9836dd14d29b, findElement {using=id, value=com.ai.gallery.android:id/gestures_view}]
+Capabilities {appium:appActivity: com.ai.gallery.android.acti..., appium:appPackage: com.ai.gallery.android, appium:databaseEnabled: false, appium:desired: {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 8a5d225b-4514-42ec-b9d0-9836dd14d29b
+2023-09-11 17:28:03,147 - com.qa.emulator.basetest.BaseTest -ERROR - pinchIn is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-11 17:28:03,150 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 17:28:03,150 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 17:59:05,063 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'ATMECSINLT-1194', ip: '60.60.60.75'
+2023-09-11 17:59:05,089 - com.qa.emulator.basetest.BaseTest -ERROR - Alert is not Handled : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.switchTo()" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 17:59:05,104 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 17:59:05,105 - com.qa.emulator.basetest.BaseTest -ERROR - Clear all button is not available : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 17:59:05,106 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 17:59:05,108 - com.qa.emulator.basetest.BaseTest -ERROR - pinchIn is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-11 17:59:05,109 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 17:59:05,112 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 17:59:41,534 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 17:59:41,540 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 17:59:43,855 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 17:59:46,793 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:00:46,655 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 18:00:46,676 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 18:00:47,716 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 18:00:49,605 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:00:50,726 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:00:53,614 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 18:00:53,615 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 18:02:12,576 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 18:02:12,592 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 18:02:14,282 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 18:02:16,318 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:02:17,452 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:02:20,411 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 18:02:20,412 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 18:32:09,712 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 18:32:09,719 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 18:32:10,717 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 18:32:12,941 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:32:14,089 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:32:17,073 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 18:32:18,026 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 18:32:18,027 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 18:34:13,382 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 18:34:13,385 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 18:34:14,238 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 18:34:15,846 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:34:16,729 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 18:34:19,690 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 18:34:20,653 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 18:34:20,653 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 19:05:28,340 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 19:05:28,354 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 19:05:28,973 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 19:05:30,481 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 19:05:31,387 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 19:05:33,125 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 19:05:33,125 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 22:47:00,512 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 22:47:00,516 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 22:47:01,808 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 22:47:04,901 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:47:06,300 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:47:08,394 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 22:47:08,395 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 22:47:59,492 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 22:47:59,496 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 22:48:00,338 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 22:48:02,037 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:48:03,167 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:48:04,954 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 22:48:05,846 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 22:48:05,847 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 22:49:58,300 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 22:49:58,305 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 22:49:59,566 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 22:50:01,288 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:50:02,906 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:50:04,844 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 22:50:05,753 - com.qa.emulator.basetest.BaseTest -INFO - Zoom out is performed 
+2023-09-11 22:50:05,754 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 22:51:50,094 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 22:51:50,105 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 22:51:50,765 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 22:51:52,237 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:51:53,091 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:51:54,840 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 22:51:55,717 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 22:51:55,717 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 22:56:37,257 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 22:56:37,260 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 22:56:38,300 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 22:56:39,933 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:56:41,509 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 22:56:43,239 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 22:56:44,208 - com.qa.emulator.basetest.BaseTest -INFO - Zoom out is performed 
+2023-09-11 22:56:44,209 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 23:02:14,954 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:02:14,957 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:02:15,983 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:02:18,131 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:02:19,908 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:02:21,861 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:02:22,773 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:02:22,773 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 23:03:38,534 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:03:38,559 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:03:39,039 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:03:40,467 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:03:41,330 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:03:43,055 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:03:43,937 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:03:43,937 - com.qa.emulator.actions.HomePageActions -INFO - Handle Alert Method is performed
+2023-09-11 23:16:07,052 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:16:07,056 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:16:08,019 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:16:08,020 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:16:10,007 - com.qa.emulator.basetest.BaseTest -ERROR - Alert is not Handled : org.openqa.selenium.NoAlertPresentException: No alert is present on the screen
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [920f854d-6c74-49d8-8398-08641e2b2c5e, getAlertText {}]
+Capabilities {appium:appActivity: com.ai.gallery.android.acti..., appium:appPackage: com.ai.gallery.android, appium:databaseEnabled: false, appium:desired: {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 920f854d-6c74-49d8-8398-08641e2b2c5e
+2023-09-11 23:16:10,156 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:16:11,743 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:16:13,695 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:16:14,604 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:16:14,605 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:21:49,665 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:21:49,684 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:21:50,901 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:21:50,902 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:21:52,943 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:21:54,744 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:21:57,061 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:21:57,743 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:21:57,744 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:24:44,279 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:24:44,295 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:24:46,404 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:24:46,408 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:24:48,502 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:24:49,613 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:24:51,806 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:24:52,467 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:24:52,467 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:25:26,723 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:25:26,740 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:25:28,458 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:25:28,460 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:25:30,295 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:25:31,346 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:25:33,303 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:25:33,936 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:25:33,937 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:26:54,303 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.ai.gallery.android' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\manoj.mukannan\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell am start -W -n com.ai.gallery.android/com.ai.gallery.android.activities.MainActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability 
+Host info: host: 'ATMECSINLT-1194', ip: '192.168.2.109'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:appActivity=com.ai.gallery.android.activities.MainActivity, appium:appPackage=com.ai.gallery.android, appium:deviceName=Pixel 4, platformName=ANDROID, appium:udid=emulator-5554}], desiredCapabilities=Capabilities {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}}]
+Capabilities {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}
+2023-09-11 23:26:54,377 - com.qa.emulator.basetest.BaseTest -ERROR - Alert is not Handled : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.switchTo()" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 23:26:54,386 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:26:54,417 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 23:26:54,417 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 23:26:54,418 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 23:26:54,424 - com.qa.emulator.basetest.BaseTest -ERROR - pinchIn is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-11 23:26:54,425 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:26:54,426 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-11 23:26:54,428 - com.qa.emulator.basetest.BaseTest -ERROR - pinchOut is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-11 23:26:54,428 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:26:54,429 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:27:12,810 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:27:12,847 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:27:14,681 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:27:14,682 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:27:16,701 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:27:17,810 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:27:19,876 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:27:20,542 - com.qa.emulator.basetest.BaseTest -ERROR - pinchOut is not performed org.openqa.selenium.InvalidElementStateException: Unable to perform W3C actions. Check the logcat output for possible error reports and make sure your input actions chain is valid.
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [36fdcacb-48ba-47af-bb2b-d54d1adbdd9f, actions {actions=[org.openqa.selenium.interactions.Sequence@4f82663e, org.openqa.selenium.interactions.Sequence@e04ccf8]}]
+Capabilities {appium:appActivity: com.ai.gallery.android.acti..., appium:appPackage: com.ai.gallery.android, appium:databaseEnabled: false, appium:desired: {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 36fdcacb-48ba-47af-bb2b-d54d1adbdd9f
+2023-09-11 23:27:20,543 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:27:20,543 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:30:22,252 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:30:22,275 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:30:23,307 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:30:23,310 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:30:25,529 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:30:26,801 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:30:29,005 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:30:29,669 - com.qa.emulator.basetest.BaseTest -ERROR - pinchOut is not performed org.openqa.selenium.InvalidElementStateException: Unable to perform W3C actions. Check the logcat output for possible error reports and make sure your input actions chain is valid.
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [48b2fc72-311c-4095-a10e-376f6816e42e, actions {actions=[org.openqa.selenium.interactions.Sequence@1a28aef1, org.openqa.selenium.interactions.Sequence@4647881c]}]
+Capabilities {appium:appActivity: com.ai.gallery.android.acti..., appium:appPackage: com.ai.gallery.android, appium:databaseEnabled: false, appium:desired: {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 48b2fc72-311c-4095-a10e-376f6816e42e
+2023-09-11 23:30:29,669 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:30:29,671 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:31:26,458 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:31:26,465 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:31:29,184 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:31:29,208 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:31:31,790 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:31:33,582 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:31:35,963 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:31:36,642 - com.qa.emulator.basetest.BaseTest -ERROR - pinchOut is not performed org.openqa.selenium.InvalidElementStateException: Unable to perform W3C actions. Check the logcat output for possible error reports and make sure your input actions chain is valid.
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [7cc26c69-bc5a-4005-882d-e040a132b516, actions {actions=[org.openqa.selenium.interactions.Sequence@1a28aef1, org.openqa.selenium.interactions.Sequence@4647881c]}]
+Capabilities {appium:appActivity: com.ai.gallery.android.acti..., appium:appPackage: com.ai.gallery.android, appium:databaseEnabled: false, appium:desired: {appActivity: com.ai.gallery.android.acti..., appPackage: com.ai.gallery.android, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 7cc26c69-bc5a-4005-882d-e040a132b516
+2023-09-11 23:31:36,644 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:31:36,645 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:32:46,488 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:32:46,494 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:32:49,565 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:32:49,566 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:32:51,951 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:32:53,069 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:32:55,366 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:32:55,989 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:32:55,990 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-11 23:34:31,247 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-11 23:34:31,256 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-11 23:34:32,959 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-11 23:34:32,967 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-11 23:34:35,186 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:34:36,202 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-11 23:34:38,215 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-11 23:34:38,832 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-11 23:34:38,833 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-13 10:32:52,057 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : java.lang.NullPointerException
+2023-09-13 10:32:52,101 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:34:46,487 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : java.lang.NullPointerException
+2023-09-13 10:34:46,531 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:38:05,158 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : java.lang.NullPointerException
+2023-09-13 10:38:05,196 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:39:19,671 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : java.lang.NullPointerException
+2023-09-13 10:39:19,715 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:45:32,209 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : java.lang.NullPointerException
+2023-09-13 10:45:32,240 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:48:47,431 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : java.lang.NullPointerException
+2023-09-13 10:48:47,469 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:51:13,360 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 10:51:13,364 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 10:51:13,399 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:51:13,831 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 10:51:49,268 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.google.android.apps.photos' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\manoj.mukannan\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell am start -W -n com.google.android.apps.photos/com.google.android.apps.photos.album.enrichment.ui.EnrichmentEditingActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000' exited with code 255'; Stderr: 'Security exception: Permission Denial: starting Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.apps.photos/.album.enrichment.ui.EnrichmentEditingActivity } from null (pid=14311, uid=2000) not exported from uid 10059
+
+java.lang.SecurityException: Permission Denial: starting Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.google.android.apps.photos/.album.enrichment.ui.EnrichmentEditingActivity } from null (pid=14311, uid=2000) not exported from uid 10059
+	at com.android.server.am.ActivityStackSupervisor.checkStartAnyActivityPermission(ActivityStackSupervisor.java:1788)
+	at com.android.server.am.ActivityStarter.startActivity(ActivityStarter.java:717)
+	at com.android.server.am.ActivityStarter.startActivity(ActivityStarter.java:544)
+	at com.android.server.am.ActivityStarter.startActivityMayWait(ActivityStarter.java:1099)
+	at com.android.server.am.ActivityStarter.execute(ActivityStarter.java:486)
+	at com.android.server.am.ActivityManagerService.startActivityAndWait(ActivityManagerService.java:5234)
+	at com.android.server.am.ActivityManagerShellCommand.runStartActivity(ActivityManagerShellCommand.java:474)
+	at com.android.server.am.ActivityManagerShellCommand.onCommand(ActivityManagerShellCommand.java:161)
+	at android.os.ShellCommand.exec(ShellCommand.java:103)
+	at com.android.server.am.ActivityManagerService.onShellCommand(ActivityManagerService.java:16012)
+	at android.os.Binder.shellCommand(Binder.java:634)
+	at android.os.Binder.onTransact(Binder.java:532)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:3592)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3291)
+	at android.os.Binder.execTransact(Binder.java:731)'; Code: '255' 
+Host info: host: 'ATMECSINLT-1194', ip: '60.60.60.75'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:appActivity=com.google.android.apps.photos.album.enrichment.ui.EnrichmentEditingActivity, appium:appPackage=com.google.android.apps.photos, appium:deviceName=Pixel 4, platformName=ANDROID, appium:udid=emulator-5554}], desiredCapabilities=Capabilities {appActivity: com.google.android.apps.pho..., appPackage: com.google.android.apps.photos, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}}]
+Capabilities {appActivity: com.google.android.apps.pho..., appPackage: com.google.android.apps.photos, deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}
+2023-09-13 10:51:49,316 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 10:51:49,739 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 11:25:31,282 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 11:25:31,311 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 11:25:35,835 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 11:25:35,838 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 11:25:42,021 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:25:46,675 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:25:53,055 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-13 11:25:53,665 - com.qa.emulator.basetest.BaseTest -INFO - pinchOut is performed 
+2023-09-13 11:25:53,666 - com.qa.emulator.actions.HomePageActions -INFO - Pinch In And Pinch Out Method is performed
+2023-09-13 11:25:54,149 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 11:29:12,525 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 11:29:12,549 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 11:29:14,495 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 11:29:14,495 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 11:29:17,051 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:29:24,111 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:29:26,847 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:29:26,848 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 11:29:27,514 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 11:43:31,115 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 11:43:31,120 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 11:43:31,855 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 11:43:31,855 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 11:43:34,656 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:43:35,878 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:43:38,063 - com.qa.emulator.basetest.BaseTest -INFO - pinchIn is performed 
+2023-09-13 11:43:38,063 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 11:43:38,397 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 11:45:38,621 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 11:45:38,630 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 11:45:39,534 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 11:45:39,538 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 11:45:44,800 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:45:50,114 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:45:53,660 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 11:45:53,661 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 11:45:54,309 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 11:56:02,344 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 11:56:02,354 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 11:56:04,871 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 11:56:04,873 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 11:56:16,871 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:56:24,956 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [d528375b-d3a5-4b45-8e31-c7cc0f513214, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/medium_thumbnail}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: d528375b-d3a5-4b45-8e31-c7cc0f513214
+2023-09-13 11:56:33,001 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [d528375b-d3a5-4b45-8e31-c7cc0f513214, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/gestures_view}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: d528375b-d3a5-4b45-8e31-c7cc0f513214
+2023-09-13 11:56:33,006 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-13 11:56:33,006 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 11:56:33,007 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 11:56:33,463 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 11:57:20,851 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 11:57:20,859 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 11:57:22,368 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 11:57:22,372 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 11:57:25,053 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:57:28,425 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 11:57:33,419 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 11:57:33,419 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 11:57:33,997 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:27:54,838 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:27:54,844 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:27:55,565 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:27:55,565 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:27:58,802 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:28:00,275 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:28:03,289 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:28:03,289 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:28:03,851 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:28:40,677 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:28:40,682 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:28:41,440 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:28:41,442 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:28:43,776 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:28:44,852 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:28:46,862 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:28:46,863 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:28:47,573 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:29:53,776 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:29:53,782 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:29:54,174 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:29:54,176 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:29:56,602 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:29:57,767 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:29:59,753 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:29:59,754 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:30:00,356 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:30:49,257 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:30:49,264 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:30:49,847 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:30:49,847 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:30:51,985 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:30:53,790 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:32:04,082 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:32:04,084 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:32:04,833 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:32:04,834 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:32:06,915 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:32:08,190 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:32:10,350 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:32:10,351 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:32:11,057 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:32:57,296 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:32:57,306 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:32:58,793 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:32:58,794 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:33:01,483 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:33:04,419 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:34:06,855 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:34:06,860 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:34:09,076 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:34:09,087 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:34:13,180 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:34:15,210 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:34:19,163 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:34:19,165 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:34:21,469 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:37:11,944 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:37:11,975 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:37:12,708 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:37:12,709 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:37:15,307 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:37:16,436 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:37:18,017 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [d80291d3-4d6e-4421-b2ea-2f438d900cbc, actions {actions=[org.openqa.selenium.interactions.Sequence@6f0cb5a1, org.openqa.selenium.interactions.Sequence@1b29d52b]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: d80291d3-4d6e-4421-b2ea-2f438d900cbc
+2023-09-13 12:37:18,019 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:37:18,019 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:37:18,658 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:39:48,657 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:39:48,662 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:39:49,634 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:39:49,635 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:39:52,375 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:39:53,586 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:39:55,101 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [38576e68-b9ec-44cc-9caf-a4459517295b, actions {actions=[org.openqa.selenium.interactions.Sequence@6f0cb5a1, org.openqa.selenium.interactions.Sequence@1b29d52b]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 38576e68-b9ec-44cc-9caf-a4459517295b
+2023-09-13 12:39:55,104 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:39:55,105 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:39:55,847 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:40:38,401 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:40:38,412 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:40:39,816 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:40:39,817 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:40:42,318 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:40:45,413 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:40:47,974 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [b81493da-5756-417a-8920-c2d8e3b2cf53, actions {actions=[org.openqa.selenium.interactions.Sequence@655523dd, org.openqa.selenium.interactions.Sequence@6f7e336b]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: b81493da-5756-417a-8920-c2d8e3b2cf53
+2023-09-13 12:40:47,977 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:40:47,978 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:40:49,091 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:41:13,792 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:41:13,806 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:41:15,079 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:41:15,081 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:41:18,423 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:41:20,461 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:41:22,500 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [b16b481d-96c9-4c86-af74-2e5218124416, actions {actions=[org.openqa.selenium.interactions.Sequence@655523dd, org.openqa.selenium.interactions.Sequence@6f7e336b]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: b16b481d-96c9-4c86-af74-2e5218124416
+2023-09-13 12:41:22,501 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:41:22,502 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:41:23,630 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:43:27,895 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:43:27,902 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:43:28,920 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:43:28,922 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:43:32,027 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:43:33,172 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:43:35,700 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:43:35,701 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:43:36,337 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:44:58,445 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:44:58,454 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:44:59,401 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:44:59,402 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:45:03,255 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:45:05,049 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:45:11,298 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:45:11,300 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:45:11,964 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:47:05,311 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:47:05,314 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:47:05,827 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:47:05,829 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:47:08,292 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:47:09,374 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:47:12,786 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:47:12,787 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:47:13,432 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:48:32,600 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'gallery.hidepictures.photovault.lockgallery' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\manoj.mukannan\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell am start -W -n gallery.hidepictures.photovault.lockgallery/gallery.hidepictures.photovault.lockgallery.zl.ZLMainActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000' timed out after 20000ms'. Try to increase the 20000ms adb execution timeout represented by 'adbExecTimeout' capability 
+Host info: host: 'ATMECSINLT-1194', ip: '60.60.60.75'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[{appium:appActivity=gallery.hidepictures.photovault.lockgallery.zl.ZLMainActivity, appium:appPackage=gallery.hidepictures.photovault.lockgallery, appium:deviceName=Pixel 4, platformName=ANDROID, appium:udid=emulator-5554}], desiredCapabilities=Capabilities {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}}]
+Capabilities {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}
+2023-09-13 12:48:32,782 - com.qa.emulator.basetest.BaseTest -ERROR - Alert is not Handled : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.switchTo()" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-13 12:48:32,797 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:48:32,857 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-13 12:48:32,858 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-13 12:48:32,859 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-13 12:48:32,870 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-13 12:48:33,825 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 12:49:25,127 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 12:49:25,133 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 12:49:25,879 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 12:49:25,880 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 12:49:29,869 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:49:32,063 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 12:49:36,896 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 12:49:36,899 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 12:49:37,734 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 14:57:54,622 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 14:57:54,631 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 14:57:56,097 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 14:57:56,097 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 14:58:02,809 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 14:58:05,584 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 14:58:08,538 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [bfe6b014-0efa-46d7-ab81-771e462bbe77, actions {actions=[org.openqa.selenium.interactions.Sequence@6f0cb5a1, org.openqa.selenium.interactions.Sequence@1b29d52b]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: bfe6b014-0efa-46d7-ab81-771e462bbe77
+2023-09-13 14:58:09,085 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 14:59:03,792 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 14:59:03,802 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 14:59:05,850 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 14:59:05,855 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 14:59:15,779 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 14:59:25,718 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [3f2611ca-7e3a-4c15-b34f-bb90234f5b98, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/medium_thumbnail}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 3f2611ca-7e3a-4c15-b34f-bb90234f5b98
+2023-09-13 15:00:10,713 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:00:10,717 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:00:11,336 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:00:11,337 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:00:13,747 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:00:16,369 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:00:21,031 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:00:21,032 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:00:21,973 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:05:53,398 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:05:53,401 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:05:54,231 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:05:54,231 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:05:55,986 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:05:58,041 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:06:01,567 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:06:01,568 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:06:02,358 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:06:58,630 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:06:58,633 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:06:59,237 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:06:59,239 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:07:01,719 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:07:36,443 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:07:36,446 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:07:36,949 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:07:36,950 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:07:39,136 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:07:40,310 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:07:43,760 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:07:43,762 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:07:44,384 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:10:17,707 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:10:17,710 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:10:18,410 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:10:18,411 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:10:21,079 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:10:22,375 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:10:25,775 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:10:25,777 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:10:26,465 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:12:37,927 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:12:37,930 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:12:38,470 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:12:38,471 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:12:40,010 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:12:42,009 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:12:46,478 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:12:46,480 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:12:47,261 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:19:55,817 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:19:55,828 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:19:56,794 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:19:56,796 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:19:59,878 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:20:01,671 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:20:07,101 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:20:07,101 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:20:07,725 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:22:23,215 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:22:23,227 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:22:23,768 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:22:23,773 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:22:26,197 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:22:27,426 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:22:32,507 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:22:32,508 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:22:33,009 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:23:46,621 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:23:46,627 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:23:47,170 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:23:47,171 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:23:49,604 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:23:50,675 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:23:55,574 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:23:55,575 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:23:56,160 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:29:33,311 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:29:33,315 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:29:34,079 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:29:34,079 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:29:36,733 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:29:38,277 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:29:40,086 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [3c592455-b336-4332-a8cc-c9425958fb1e, actions {actions=[org.openqa.selenium.interactions.Sequence@6f0cb5a1, org.openqa.selenium.interactions.Sequence@1b29d52b, org.openqa.selenium.interactions.Sequence@47547132]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 3c592455-b336-4332-a8cc-c9425958fb1e
+2023-09-13 15:29:40,418 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:31:29,317 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:31:29,323 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:31:30,586 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:31:30,587 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:31:32,755 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:31:35,909 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:31:38,147 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [c1723cba-6374-4c77-aeff-69ddb85f41e4, actions {actions=[org.openqa.selenium.interactions.Sequence@6f0cb5a1, org.openqa.selenium.interactions.Sequence@1b29d52b, org.openqa.selenium.interactions.Sequence@47547132]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: c1723cba-6374-4c77-aeff-69ddb85f41e4
+2023-09-13 15:31:39,007 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:35:27,364 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:35:27,370 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:35:28,137 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:35:28,138 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:35:29,895 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:35:31,993 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:35:33,510 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.InvalidArgumentException: Exception while reading JSON
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [e22e7e1a-80be-4848-80d8-51b341c1da38, actions {actions=[org.openqa.selenium.interactions.Sequence@655523dd]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: e22e7e1a-80be-4848-80d8-51b341c1da38
+2023-09-13 15:35:33,905 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:37:27,541 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:37:27,550 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:37:28,634 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:37:28,636 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:37:32,886 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:37:36,138 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:37:42,968 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:37:42,970 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:37:43,803 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 15:38:51,147 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 15:38:51,156 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 15:38:52,264 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 15:38:52,268 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 15:38:57,045 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:38:58,340 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 15:39:05,563 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 15:39:05,565 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 15:39:06,326 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 17:53:49,271 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 17:53:49,281 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 17:53:50,628 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 17:53:50,629 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 17:53:53,945 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 17:54:02,318 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 17:54:02,612 - com.qa.emulator.actions.HomePageActions -ERROR - Angle Rotation Method is not performed : org.openqa.selenium.UnsupportedCommandException: Unknown mobile command "rotate(20)". Only shell,execEmuConsoleCommand,dragGesture,flingGesture,doubleClickGesture,longClickGesture,pinchCloseGesture,pinchOpenGesture,swipeGesture,scrollGesture,scrollBackTo,scroll,viewportScreenshot,viewportRect,deepLink,startLogsBroadcast,stopLogsBroadcast,acceptAlert,dismissAlert,batteryInfo,deviceInfo,getDeviceTime,changePermissions,getPermissions,performEditorAction,startScreenStreaming,stopScreenStreaming,getNotifications,listSms,type,sensorSet,deleteFile,clearApp,startActivity,startService,stopService,broadcast,getContexts,installMultipleApks commands are supported.
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [228a73bd-9212-4cdb-b05f-e2cc6325c91b, executeScript {script=mobile:rotate(20), args=[]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 228a73bd-9212-4cdb-b05f-e2cc6325c91b
+2023-09-13 17:54:03,562 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 17:54:31,943 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 17:54:31,973 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 17:54:33,126 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 17:54:33,127 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 17:54:36,878 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 17:54:39,338 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 17:54:39,436 - com.qa.emulator.actions.HomePageActions -ERROR - Angle Rotation Method is not performed : org.openqa.selenium.UnsupportedCommandException: Unknown mobile command "rotate(20)". Only shell,execEmuConsoleCommand,dragGesture,flingGesture,doubleClickGesture,longClickGesture,pinchCloseGesture,pinchOpenGesture,swipeGesture,scrollGesture,scrollBackTo,scroll,viewportScreenshot,viewportRect,deepLink,startLogsBroadcast,stopLogsBroadcast,acceptAlert,dismissAlert,batteryInfo,deviceInfo,getDeviceTime,changePermissions,getPermissions,performEditorAction,startScreenStreaming,stopScreenStreaming,getNotifications,listSms,type,sensorSet,deleteFile,clearApp,startActivity,startService,stopService,broadcast,getContexts,installMultipleApks commands are supported.
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [36eabef8-2b17-4fa2-92ea-686abb9fb98c, executeScript {script=mobile:rotate(20), args=[]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 36eabef8-2b17-4fa2-92ea-686abb9fb98c
+2023-09-13 17:54:41,090 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 17:57:12,134 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 17:57:12,148 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 17:57:13,561 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 17:57:13,564 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 17:57:19,051 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 17:57:24,841 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 17:57:26,497 - com.qa.emulator.actions.HomePageActions -ERROR - Angle Rotation Method is not performed : org.openqa.selenium.UnsupportedCommandException: Unknown mobile command "rotate(20)". Only shell,execEmuConsoleCommand,dragGesture,flingGesture,doubleClickGesture,longClickGesture,pinchCloseGesture,pinchOpenGesture,swipeGesture,scrollGesture,scrollBackTo,scroll,viewportScreenshot,viewportRect,deepLink,startLogsBroadcast,stopLogsBroadcast,acceptAlert,dismissAlert,batteryInfo,deviceInfo,getDeviceTime,changePermissions,getPermissions,performEditorAction,startScreenStreaming,stopScreenStreaming,getNotifications,listSms,type,sensorSet,deleteFile,clearApp,startActivity,startService,stopService,broadcast,getContexts,installMultipleApks commands are supported.
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [0150f48c-c7ae-4328-b1c1-9134f05a4f22, executeScript {script=mobile:rotate(20), args=[{element-6066-11e4-a52e-4f735466cecf=00000000-0000-0390-ffff-ffff00000088}]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 4, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 28, appium:deviceManufacturer: Google, appium:deviceModel: AOSP on IA Emulator, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 9, appium:statBarHeight: 135, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 0150f48c-c7ae-4328-b1c1-9134f05a4f22
+2023-09-13 17:57:27,669 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 18:48:05,113 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 18:48:05,121 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 18:48:05,903 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 18:48:05,904 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 18:48:09,131 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 18:48:10,415 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 18:48:14,216 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 18:48:14,218 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 18:48:15,292 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 18:51:40,495 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 18:51:40,500 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 18:51:41,138 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 18:51:41,139 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 18:51:44,591 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 18:51:45,841 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 18:51:51,249 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 18:51:51,251 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 18:51:52,902 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 19:09:15,334 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 19:09:15,343 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 19:09:16,011 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 19:09:16,011 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 19:09:20,065 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:09:21,410 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:09:26,925 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 19:09:26,927 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 19:09:27,672 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 19:11:29,672 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 19:11:29,676 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 19:11:30,831 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 19:11:30,831 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 19:11:33,551 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:11:34,645 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:11:39,735 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 19:11:39,736 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 19:11:40,311 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 19:12:00,650 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 19:12:00,658 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 19:12:02,059 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 19:12:02,060 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 19:12:04,298 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:12:05,496 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:12:10,522 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 19:12:10,522 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 19:12:11,079 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-13 19:14:47,869 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-13 19:14:47,872 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-13 19:14:48,871 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-13 19:14:48,872 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-13 19:14:52,356 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:14:53,688 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-13 19:14:58,906 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-13 19:14:58,907 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-13 19:14:59,621 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 11:13:57,938 - com.qa.emulator.basetest.BaseTest -ERROR - Appium driver is not conneted : org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'ATMECSINLT-1194', ip: '60.60.60.75'
+2023-09-14 11:13:57,968 - com.qa.emulator.basetest.BaseTest -ERROR - Alert is not Handled : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.switchTo()" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-14 11:13:57,975 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 11:13:57,994 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-14 11:13:57,995 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-14 11:13:57,996 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.findElement(org.openqa.selenium.By)" because "com.qa.emulator.utils.ReusableMethods.driver" is null
+2023-09-14 11:13:57,999 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-14 11:13:58,252 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 16:17:14,042 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-14 16:17:14,066 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-14 16:17:17,052 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:17:17,054 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 16:17:25,419 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [93ff5463-fe4f-408f-9970-60693fccdff4, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/dir_thumbnail}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 5, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1993, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 93ff5463-fe4f-408f-9970-60693fccdff4
+2023-09-14 16:17:33,493 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [93ff5463-fe4f-408f-9970-60693fccdff4, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/medium_thumbnail}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 5, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1993, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 93ff5463-fe4f-408f-9970-60693fccdff4
+2023-09-14 16:17:41,578 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [93ff5463-fe4f-408f-9970-60693fccdff4, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/gestures_view}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 5, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1993, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 93ff5463-fe4f-408f-9970-60693fccdff4
+2023-09-14 16:17:41,595 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-14 16:17:42,451 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 16:26:20,577 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-14 16:26:20,594 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-14 16:26:22,239 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:26:22,241 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 16:26:30,390 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [ea2705b9-7106-47c7-88ca-33b3c04cef49, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/dir_thumbnail}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 5, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1993, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: ea2705b9-7106-47c7-88ca-33b3c04cef49
+2023-09-14 16:26:38,467 - com.qa.emulator.basetest.BaseTest -ERROR - Click is not performed : org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [ea2705b9-7106-47c7-88ca-33b3c04cef49, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/medium_thumbnail}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 5, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1993, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: ea2705b9-7106-47c7-88ca-33b3c04cef49
+2023-09-14 16:26:46,565 - com.qa.emulator.basetest.BaseTest -ERROR - Drag and Drop is not performed : - 1 org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [ea2705b9-7106-47c7-88ca-33b3c04cef49, findElement {using=id, value=gallery.hidepictures.photovault.lockgallery:id/gestures_view}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 5, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1993, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: ea2705b9-7106-47c7-88ca-33b3c04cef49
+2023-09-14 16:26:46,573 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed java.lang.NullPointerException: Cannot read field "x" because "point" is null
+2023-09-14 16:26:47,558 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 16:27:35,489 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-14 16:27:35,513 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-14 16:27:36,817 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:27:38,718 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:27:38,719 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 16:27:41,419 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:27:47,685 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:27:58,327 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-14 16:27:58,328 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-14 16:28:00,301 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 16:38:31,064 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-14 16:38:31,099 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-14 16:38:33,070 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:38:35,036 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:38:35,036 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 16:38:38,221 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:38:45,065 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:38:52,110 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-14 16:38:52,113 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-14 16:38:53,284 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 16:43:00,358 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-14 16:43:00,462 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-14 16:43:03,266 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:43:05,409 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:43:05,411 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 16:43:08,917 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:43:20,250 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:43:24,589 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-14 16:43:24,593 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-14 16:43:25,695 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 16:52:12,402 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-14 16:52:12,416 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-14 16:52:15,241 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:52:18,035 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:52:18,036 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 16:52:22,612 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:52:29,468 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:52:46,435 - com.qa.emulator.basetest.BaseTest -ERROR - Angle Rotation is not performed org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [f2a1a65b-67ff-46af-b3ed-adb1c54bbd4d, actions {actions=[org.openqa.selenium.interactions.Sequence@2a9bc08f, org.openqa.selenium.interactions.Sequence@50f40653]}]
+Capabilities {appium:appActivity: gallery.hidepictures.photov..., appium:appPackage: gallery.hidepictures.photov..., appium:databaseEnabled: false, appium:desired: {appActivity: gallery.hidepictures.photov..., appPackage: gallery.hidepictures.photov..., deviceName: Pixel 5, platformName: ANDROID, udid: emulator-5554}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2340, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 145, appium:takesScreenshot: true, appium:udid: emulator-5554, appium:viewportRect: {height: 1993, left: 0, top: 145, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: f2a1a65b-67ff-46af-b3ed-adb1c54bbd4d
+2023-09-14 16:52:47,755 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped
+2023-09-14 16:53:53,895 - com.qa.emulator.basetest.BaseTest -INFO - Driver launched Successfully
+2023-09-14 16:53:53,917 - com.qa.emulator.basetest.BaseTest -INFO - Application launched Successfully
+2023-09-14 16:53:55,377 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:53:56,790 - com.qa.emulator.basetest.BaseTest -INFO - Alert is Handled
+2023-09-14 16:53:56,791 - com.qa.emulator.actions.HomePageActions -INFO - Alert Handle Method is performed
+2023-09-14 16:54:01,091 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:54:05,772 - com.qa.emulator.basetest.BaseTest -INFO - Click is performed
+2023-09-14 16:54:13,079 - com.qa.emulator.basetest.BaseTest -INFO - Angle Rotation is performed 
+2023-09-14 16:54:13,084 - com.qa.emulator.actions.HomePageActions -INFO - Angle Rotation Method is performed
+2023-09-14 16:54:14,519 - com.qa.emulator.basetest.BaseTest -INFO - Application Successfully Closed and appium server stopped

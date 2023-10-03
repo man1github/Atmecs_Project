@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 41.354 s <<< FAILURE! - in TestSuite
+handleAlertTest(com.qa.emulator.test.HomePageTest)  Time elapsed: 0.052 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.qa.emulator.test.HomePageTest.handleAlertTest(HomePageTest.java:14)
+
+tearDown(com.qa.emulator.test.HomePageTest)  Time elapsed: 0.628 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "io.appium.java_client.android.AndroidDriver.quit()" because "com.qa.emulator.basetest.BaseTest.driver" is null
+

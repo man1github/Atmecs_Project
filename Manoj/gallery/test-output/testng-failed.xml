@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Emulator Gallery Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="appPackage" value="com.ai.gallery.android"/>
+  <parameter name="appActivity" value="com.ai.gallery.android.activities.MainActivity"/>
+  <parameter name="platformName" value="Android"/>
+  <parameter name="udid" value="emulator-5554"/>
+  <parameter name="deviceName" value="Pixel 4"/>
+  <test thread-count="5" name="Emulator Gallery Test(failed)">
+    <parameter name="appium_Url" value="http://0.0.0.0:4723/wd/hub"/>
+    <classes>
+      <class name="com.qa.emulator.test.HomePageTest">
+        <methods>
+          <include name="desiredCapabilites"/>
+          <include name="handleAlertTest"/>
+          <include name="driverLaunch"/>
+          <include name="extendReportFlush"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.emulator.test.HomePageTest -->
+    </classes>
+  </test> <!-- Emulator Gallery Test(failed) -->
+</suite> <!-- Failed suite [Emulator Gallery Test Suite] -->

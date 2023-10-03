@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Emulators Test Suite" parallel="tests">
+	<test name="Pixel_4 Emulator Test">
+		<parameter name="platformName" value="Android"></parameter>
+		<parameter name="deviceName" value="Pixel_4"></parameter>
+		<parameter name="udid" value="emulator-5554"></parameter>
+		<parameter name="appPath" value="C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\Build\\Android_UI_Design-1.0.apk"></parameter>
+		<parameter name="unlockType" value="pattern"></parameter>
+		<parameter name="unlockKey" value="74869"></parameter>
+		<parameter name="appium_Url" value="http://0.0.0.0:4723/wd/hub"></parameter>
+
+		<classes>
+			<class name="com.qa.emulator.test.HomePageTest" />
+			<!--	<class name="com.qa.emulator.test.DatePickerTest" />-->
+			<class name="com.qa.emulator.test.TextSpeechTest" />
+			<!--<class name="com.qa.emulator.test.ListViewTest" />
+			<class name="com.qa.emulator.test.ViewFlowTest" />
+			<class name="com.qa.emulator.test.DragAndDropTest" />
+			<class name="com.qa.emulator.test.ChartTest" />-->
+		</classes>
+	</test> <!-- Test -->
+	
+    <test name="Pixel_5_API_33 Emulator Test">
+		<parameter name="platformName" value="Android"></parameter>
+		<parameter name="deviceName" value="Pixel_5_API_33"></parameter>
+		<parameter name="udid" value="emulator-5556"></parameter>
+		<parameter name="appPath" value="C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\Build\\Android_UI_Design-1.0.apk"></parameter>
+		<parameter name="unlockType" value="pattern"></parameter>
+		<parameter name="unlockKey" value="74869"></parameter>
+		<parameter name="appium_Url" value="http://0.0.0.0:4724/wd/hub"></parameter>		
+		<classes>
+			<class name="com.qa.emulator.test.HomePageTest" />
+			<!--	<class name="com.qa.emulator.test.DatePickerTest" />-->
+			<class name="com.qa.emulator.test.TextSpeechTest" />
+			<!--<class name="com.qa.emulator.test.ListViewTest" />
+			<class name="com.qa.emulator.test.ViewFlowTest" />
+			<class name="com.qa.emulator.test.DragAndDropTest" />
+			<class name="com.qa.emulator.test.ChartTest" />-->
+		</classes>
+	</test>
+</suite> 

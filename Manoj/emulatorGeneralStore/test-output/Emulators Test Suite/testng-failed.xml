@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Emulators Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Pixel_4 Emulator Test(failed)">
+    <parameter name="unlockType" value="pattern"/>
+    <parameter name="appium_Url" value="http://0.0.0.0:4723/wd/hub"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="udid" value="emulator-5554"/>
+    <parameter name="unlockKey" value="74869"/>
+    <parameter name="deviceName" value="Pixel_4"/>
+    <parameter name="appPath" value="C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\Build\\Android_UI_Design-1.0.apk"/>
+    <classes>
+      <class name="com.qa.emulator.test.HomePageTest">
+        <methods>
+          <include name="handleAlertTest"/>
+          <include name="driverLaunch"/>
+          <include name="extendReportFlush"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.emulator.test.HomePageTest -->
+    </classes>
+  </test> <!-- Pixel_4 Emulator Test(failed) -->
+  <test thread-count="5" parallel="tests" name="Pixel_5_API_33 Emulator Test(failed)">
+    <parameter name="unlockType" value="pattern"/>
+    <parameter name="appium_Url" value="http://0.0.0.0:4723/wd/hub"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="udid" value="emulator-5556"/>
+    <parameter name="unlockKey" value="74869"/>
+    <parameter name="deviceName" value="Pixel_5_API_33"/>
+    <parameter name="appPath" value="C:\\Users\\manoj.mukannan\\Mobile Testing Workspace\\emulator\\src\\test\\resources\\Build\\Android_UI_Design-1.0.apk"/>
+    <classes>
+      <class name="com.qa.emulator.test.HomePageTest">
+        <methods>
+          <include name="handleAlertTest"/>
+          <include name="driverLaunch"/>
+          <include name="extendReportFlush"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.emulator.test.HomePageTest -->
+    </classes>
+  </test> <!-- Pixel_5_API_33 Emulator Test(failed) -->
+</suite> <!-- Failed suite [Emulators Test Suite] -->

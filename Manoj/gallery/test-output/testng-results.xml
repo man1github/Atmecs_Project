@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T22:24:56 IST" name="Emulator Gallery Test Suite" finished-at="2023-09-14T22:25:39 IST" duration-ms="43075">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T22:24:56 IST" name="Emulator Gallery Test" finished-at="2023-09-14T22:25:39 IST" duration-ms="43075">
+      <class name="com.qa.emulator.test.HomePageTest">
+        <test-method is-config="true" signature="desiredCapabilites(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.emulator.test.HomePageTest@79da8dc5]" started-at="2023-09-14T22:24:56 IST" name="desiredCapabilites" finished-at="2023-09-14T22:24:56 IST" duration-ms="99" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pixel 4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.ai.gallery.android]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.ai.gallery.android.activities.MainActivity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desiredCapabilites -->
+        <test-method is-config="true" signature="driverLaunch(java.lang.String)[pri:0, instance:com.qa.emulator.test.HomePageTest@79da8dc5]" started-at="2023-09-14T22:24:56 IST" name="driverLaunch" finished-at="2023-09-14T22:25:26 IST" duration-ms="29482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://0.0.0.0:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverLaunch -->
+        <test-method signature="handleAlertTest()[pri:0, instance:com.qa.emulator.test.HomePageTest@79da8dc5]" started-at="2023-09-14T22:25:26 IST" name="handleAlertTest" finished-at="2023-09-14T22:25:38 IST" duration-ms="12165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAlertTest -->
+        <test-method is-config="true" signature="extendReportFlush()[pri:0, instance:com.qa.emulator.test.HomePageTest@79da8dc5]" started-at="2023-09-14T22:25:38 IST" name="extendReportFlush" finished-at="2023-09-14T22:25:39 IST" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReportFlush -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.emulator.test.HomePageTest@79da8dc5]" started-at="2023-09-14T22:25:39 IST" name="tearDown" finished-at="2023-09-14T22:25:42 IST" duration-ms="2552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.emulator.test.HomePageTest -->
+    </test> <!-- Emulator Gallery Test -->
+  </suite> <!-- Emulator Gallery Test Suite -->
+</testng-results>
